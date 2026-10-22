@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Jaume Tur 👋
 
-<!--
-**jaumetur3W/jaumetur3W** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer based in Valencia, Spain, focused on building web applications and practical software solutions.
 
-Here are some ideas to get you started:
+### What I work on
+- 🌐 Web development
+- ⚙️ Custom applications and software
+- 🔌 APIs, backend development and databases
+- 🔄 Automation and integrations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My approach
+I enjoy understanding problems, exploring different approaches and building solutions that are useful, maintainable and reliable. I'm continuously learning and improving through hands-on projects.
+
+### Find me online
+- 🌍 Website: https://jaumetur.es/
+- 💼 LinkedIn: https://www.linkedin.com/in/jautur
+- 📸 Instagram: https://www.instagram.com/jaume.www/
+
+Feel free to explore my repositories or get in touch to discuss a project.
