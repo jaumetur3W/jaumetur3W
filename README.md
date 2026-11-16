@@ -14,6 +14,6 @@ I enjoy understanding problems, exploring different approaches and building solu
 ### Find me online
 - 🌍 Website: https://jaumetur.es/
 - 💼 LinkedIn: https://www.linkedin.com/in/jautur
-- 📸 Instagram: https://www.instagram.com/jaume.www/
+- 📸 Instagram: https://www.instagram.com/jaumetur.es/
 
 Feel free to explore my repositories or get in touch to discuss a project.
